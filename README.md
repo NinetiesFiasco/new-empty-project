@@ -1,4 +1,4 @@
-# empty-project
+# new-empty-project
 
 ## Project setup
 ```
